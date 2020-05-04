@@ -36,6 +36,7 @@ int cal_factorial_number(string& theStr);				// 求阶乘所求的数字
 
 int main()
 {
+	system("color F8");
 	cout << "欢迎使用计算器" << endl;
 	cout << "你可以使用这个计算器做一些简单的运算" << endl;
 	cout << "如果你想退出，输入:exit即可..." << endl;
